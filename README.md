@@ -2,7 +2,7 @@
 
 Je suis actuellement doctorant à l'[institut Fourier](https://www-fourier.ujf-grenoble.fr/) de l'[Université Grenoble-Alpes](https://www.univ-grenoble-alpes.fr/) sous la supervision de [Loren Coquille](https://www-fourier.ujf-grenoble.fr/~coquilll/) sur le thème ``Mécanique statistique sur les arbres''.
 
-## *Curricullum Vitae*
+## *Curriculum Vitae*
 
 Vous pouvez retrouver ici mon CV :  
 - [CV 🇫🇷 (Mai 2025)](./documents/cv_vereecke_fr.pdf)  
